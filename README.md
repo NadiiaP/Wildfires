@@ -1,24 +1,28 @@
 # Wildfires
 Exploring Northern California’s Air quality based on Daily PM2.5, O3, and CO Concentrations (1980 - 2022).
 
-## Goal: 
+### Goal: 
 Predict Daily Mean PM2.5 Concentration in counties in California for preventing wildfires in future.
 
-## Objectives:
-### Data Scope and Focus:
+### Objectives:
+Data Scope and Focus:
 Focus the analysis on Northern California to provide localized and actionable predictions for the region.
-### Temporal Analysis:
+
+Temporal Analysis:
 Analyze the dataset's time range, spanning from 1980 to 2022, to identify temporal trends and patterns.
-### Machine Learning Implementation:
+
+Machine Learning Implementation:
 Implement machine learning techniques, leveraging libraries like scikit-learn (sklearn), to build predictive models for PM2.5 concentration.
-### Model Validation:
+
+Model Validation:
 Validate the accuracy and reliability of predictive models using techniques like cross-validation.
 Calculate appropriate evaluation metrics to assess model performance.
-### Future Value Prediction:
+
+Future Value Prediction:
 Use the trained model to predict future daily mean PM2.5 concentrations in Northern California.
 Provide insights into the expected air quality changes over time.
 
-## Dataset:
+### Dataset:
 Covers multiple pollutants (CO, Ozone, PM2.5).
 Spans the time range from 1980 to 2022.
 Wildfires dataset https://incidents.fire.ca.gov/imapdata/mapdataall.csv (from https://www.fire.ca.gov/incidents#incidentdisclaimer) 
